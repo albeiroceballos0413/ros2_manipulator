@@ -25,6 +25,7 @@ setup(
     },
     entry_points={
         'console_scripts': [
+            'fk_node = arm_kinematics.fk_node:main',
         ],
     },
 )
