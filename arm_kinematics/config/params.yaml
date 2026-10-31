@@ -1,0 +1,5 @@
+fk_node:
+  ros__parameters:
+    link_lengths: [0.30, 0.25, 0.10]   # L1, L2, L3 [m]
+    joint_names: [joint1, joint2, joint3]
+    base_frame: base_link
